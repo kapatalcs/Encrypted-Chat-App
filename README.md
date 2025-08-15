@@ -26,13 +26,13 @@ pip install pycryptodome
 
 ## Running
 
-# For server
+### For server
 1. **Start the server:**
 ```bash
 python server.py
 ```
 
-# For client
+### For client
 1. **Start the client:**
 ```bash
 python client.py
