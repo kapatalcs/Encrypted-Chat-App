@@ -1,7 +1,7 @@
 # Encrypted Chat App 
 
-This project is a multi-user CLI-based chat application developed using Python with **RSA encryption** support.
-Clients obtain each other's **public keys** via the server, and messages are transmitted between clients in an **end-to-end encrypted** manner.
+This project is a multi-user CLI-based chat application developed using Python with ***RSA encryption*** support.
+Clients obtain each other's **public keys** via the server, and messages are transmitted between clients in an ***end-to-end encrypted*** manner.
 ---
 
 ## Features
