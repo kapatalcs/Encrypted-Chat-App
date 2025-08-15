@@ -4,7 +4,7 @@ import json
 from rsa_utils import generate_key_pair, encrypt_with_public_key, decrypt_with_private_key
 import sys
 
-SERVER_HOST = "localhost"
+SERVER_HOST = "ServerIP"
 SERVER_PORT = 12345
 
 try:
